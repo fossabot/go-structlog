@@ -19,5 +19,6 @@ $ ./bin/go-structlog
 
 ``make test``
 
-## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdanstiner%2Fgo-structlog.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdanstiner%2Fgo-structlog?ref=badge_large)
+### Benchmarking
+
+``make bench``
